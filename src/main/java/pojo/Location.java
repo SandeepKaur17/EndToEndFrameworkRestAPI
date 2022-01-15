@@ -16,5 +16,6 @@ public class Location {
 		this.lng = lng;
 	}
 	private double lng;
+//loaction
 
 }
