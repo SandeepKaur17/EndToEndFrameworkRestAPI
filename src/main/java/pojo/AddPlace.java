@@ -62,5 +62,7 @@ public class AddPlace {
 	public void setLocation(Location location) {
 		this.location = location;
 	}
+
+//pojo
 	
 }
